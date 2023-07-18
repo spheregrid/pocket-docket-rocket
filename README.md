@@ -1,42 +1,40 @@
 # BBBY docket searches
 
-Scanned to docket `1398` on `18 July 2023` 16:35 ET | 21:35 GMT.
+Scanned to docket `1398` on `18 July 2023` 16:43 ET | 21:43 GMT.
 
 Updated this scan:
 
-1. <sup>com</sup> [A&G](com_A&G.md) <sup>`12` hits</sup> [1371, 1397]
-1. <sup>com</sup> [Gibbons](com_Gibbons.md) <sup>`1` hit</sup> [1398]
-1. <sup>com</sup> [Press Release](com_Press%20Release.md) <sup>`1` hit</sup> [1397]
-1. <sup>com</sup> [Proskauer Rose](com_Proskauer%20Rose.md) <sup>`3` hits</sup> [1392, 1398]
-1. <sup>com</sup> [Sixth Street](com_Sixth%20Street.md) <sup>`10` hits</sup> [1370, 1372, 1398]
-1. <sup>itm</sup> [Notice Of Agenda Of Matters](itm_Notice%20Of%20Agenda%20Of%20Matters.md) <sup>`1` hit</sup> [1380]
-1. <sup>leg</sup> [Ad Hoc Group, Bondholder Group](leg_Ad%20Hoc%20Group,Bondholder%20Group.md) <sup>`7` hits</sup> 💩 [1370]
-1. <sup>leg</sup> [Credit Bid, Debt Forgiveness](leg_Credit%20Bid,Debt%20Forgiveness.md) <sup>`10` hits</sup> [1397]
-1. <sup>leg</sup> [Final Order](leg_Final%20Order.md) <sup>`1` hit</sup> [1370]
-1. <sup>leg</sup> [Going Concern Sale, Going Concern Auction](leg_Going%20Concern%20Sale,Going%20Concern%20Auction.md) <sup>`31` hits</sup> [1397]
-1. <sup>leg</sup> [Guarantor, Guarantee, Surety](leg_Guarantor,Guarantee,Surety.md) <sup>`2` hits</sup> [1397]
-1. <sup>leg</sup> [Joint Venture](leg_Joint%20Venture.md) <sup>`2` hits</sup> [1373]
-1. <sup>leg</sup> [Parties In Interest](leg_Parties%20In%20Interest.md) <sup>`3` hits</sup> [1373, 1387, 1397]
-1. <sup>leg</sup> [Standstill, Stand Still, Exclusivity](leg_Standstill,Stand%20Still,Exclusivity.md) <sup>`16` hits</sup> [1381, 1383, 1389]
-1. <sup>ppl</sup> [D. Hunter, Derek I. Hunter, Derek Hunter](ppl_D.%20Hunter,Derek%20I.%20Hunter,Derek%20Hunter.md) <sup>`22` hits</sup> [1370, 1372, 1373, 1380, 1388, 1392, 1394, 1395, 1396, 1397, 1398]
-1. <sup>ppl</sup> [H. Etlin, Holly Etlin, Ms. Etlin](ppl_H.%20Etlin,Holly%20Etlin,Ms.%20Etlin.md) <sup>`5` hits</sup> [1380, 1383, 1395, 1397]
-1. <sup>ppl</sup> [R. Fiedler, Mr. Fiedler](ppl_R.%20Fiedler,Mr.%20Fiedler.md) <sup>`33` hits</sup> [1397]
+1. <sup>com</sup> [A&G](com_A&G.md) <sup>`12` hits</sup> <sup>[1371, 1397]</sup>
+1. <sup>com</sup> [Gibbons](com_Gibbons.md) <sup>`1` hit</sup> <sup>[1398]</sup>
+1. <sup>com</sup> [Press Release](com_Press%20Release.md) <sup>`1` hit</sup> <sup>[1397]</sup>
+1. <sup>com</sup> [Proskauer Rose](com_Proskauer%20Rose.md) <sup>`3` hits</sup> <sup>[1392, 1398]</sup>
+1. <sup>com</sup> [Sixth Street](com_Sixth%20Street.md) <sup>`10` hits</sup> <sup>[1370, 1372, 1398]</sup>
+1. <sup>itm</sup> [Notice Of Agenda Of Matters](itm_Notice%20Of%20Agenda%20Of%20Matters.md) <sup>`1` hit</sup> <sup>[1380]</sup>
+1. <sup>leg</sup> [Ad Hoc Group, Bondholder Group](leg_Ad%20Hoc%20Group,Bondholder%20Group.md) <sup>`7` hits</sup> 💩 <sup>[1370]</sup>
+1. <sup>leg</sup> [Credit Bid, Debt Forgiveness](leg_Credit%20Bid,Debt%20Forgiveness.md) <sup>`10` hits</sup> <sup>[1397]</sup>
+1. <sup>leg</sup> [Final Order](leg_Final%20Order.md) <sup>`1` hit</sup> <sup>[1370]</sup>
+1. <sup>leg</sup> [Going Concern Sale, Going Concern Auction](leg_Going%20Concern%20Sale,Going%20Concern%20Auction.md) <sup>`31` hits</sup> <sup>[1397]</sup>
+1. <sup>leg</sup> [Guarantor, Guarantee, Surety](leg_Guarantor,Guarantee,Surety.md) <sup>`2` hits</sup> <sup>[1397]</sup>
+1. <sup>leg</sup> [Joint Venture](leg_Joint%20Venture.md) <sup>`2` hits</sup> <sup>[1373]</sup>
+1. <sup>leg</sup> [Parties In Interest](leg_Parties%20In%20Interest.md) <sup>`3` hits</sup> <sup>[1373, 1387, 1397]</sup>
+1. <sup>leg</sup> [Standstill, Stand Still, Exclusivity](leg_Standstill,Stand%20Still,Exclusivity.md) <sup>`16` hits</sup> <sup>[1381, 1383, 1389]</sup>
+1. <sup>ppl</sup> [D. Hunter, Derek I. Hunter, Derek Hunter](ppl_D.%20Hunter,Derek%20I.%20Hunter,Derek%20Hunter.md) <sup>`22` hits</sup> <sup>[1370, 1372, 1373, 1380, 1388, 1392, 1394, 1395, 1396, 1397, 1398]</sup>
+1. <sup>ppl</sup> [H. Etlin, Holly Etlin, Ms. Etlin](ppl_H.%20Etlin,Holly%20Etlin,Ms.%20Etlin.md) <sup>`5` hits</sup> <sup>[1380, 1383, 1395, 1397]</sup>
+1. <sup>ppl</sup> [R. Fiedler, Mr. Fiedler](ppl_R.%20Fiedler,Mr.%20Fiedler.md) <sup>`33` hits</sup> <sup>[1397]</sup>
 
 Updated from previous scan:
 
-1. <sup>com</sup> [A&G](com_A&G.md) <sup>`1` hit</sup> [1367]
-1. <sup>com</sup> [Citadel](com_Citadel.md) <sup>`4` hits</sup> [1366]
-1. <sup>com</sup> [Gibbons](com_Gibbons.md) <sup>`1` hit</sup> [1366]
-1. <sup>com</sup> [JLL](com_JLL.md) <sup>`6` hits</sup> [1357, 1366]
-1. <sup>com</sup> [Lazard](com_Lazard.md) <sup>`2` hits</sup> [1367]
-1. <sup>com</sup> [Proskauer Rose](com_Proskauer%20Rose.md) <sup>`9` hits</sup> [1364, 1365, 1366, 1367]
-1. <sup>com</sup> [Sixth Street](com_Sixth%20Street.md) <sup>`12` hits</sup> [1366, 1367, 1369]
-1. <sup>leg</sup> [Equity holder, Shareholder](leg_Equity%20holder,Shareholder.md) <sup>`1` hit</sup> [1359]
-1. <sup>leg</sup> [Joint Venture](leg_Joint%20Venture.md) <sup>`2` hits</sup> [1356]
-1. <sup>leg</sup> [Parties In Interest](leg_Parties%20In%20Interest.md) <sup>`3` hits</sup> [1355, 1356]
-1. <sup>leg</sup> [Warrants](leg_Warrants.md) <sup>`5` hits</sup> [1362]
-1. <sup>ppl</sup> [D. Hunter, Derek I. Hunter, Derek Hunter](ppl_D.%20Hunter,Derek%20I.%20Hunter,Derek%20Hunter.md) <sup>`14` hits</sup> [1355, 1356, 1357, 1360, 1362, 1363, 1365, 1366, 1367, 1368, 1369]
-1. <sup>ppl</sup> [Ryan Cohen, RC Ventures, R. Cohen](ppl_Ryan%20Cohen,RC%20Ventures,R.%20Cohen.md) <sup>`2` hits</sup> 🥵 [1367]
+1. <sup>com</sup> [A&G](com_A&G.md) <sup>`1` hit</sup> <sup>[1367]</sup>
+1. <sup>com</sup> [Citadel](com_Citadel.md) <sup>`4` hits</sup> <sup>[1366]</sup>
+1. <sup>com</sup> [Gibbons](com_Gibbons.md) <sup>`1` hit</sup> <sup>[1366]</sup>
+1. <sup>com</sup> [JLL](com_JLL.md) <sup>`5` hits</sup> <sup>[1366]</sup>
+1. <sup>com</sup> [Lazard](com_Lazard.md) <sup>`2` hits</sup> <sup>[1367]</sup>
+1. <sup>com</sup> [Proskauer Rose](com_Proskauer%20Rose.md) <sup>`9` hits</sup> <sup>[1364, 1365, 1366, 1367]</sup>
+1. <sup>com</sup> [Sixth Street](com_Sixth%20Street.md) <sup>`12` hits</sup> <sup>[1366, 1367, 1369]</sup>
+1. <sup>leg</sup> [Equity holder, Shareholder](leg_Equity%20holder,Shareholder.md) <sup>`1` hit</sup> <sup>[1359]</sup>
+1. <sup>leg</sup> [Warrants](leg_Warrants.md) <sup>`5` hits</sup> <sup>[1362]</sup>
+1. <sup>ppl</sup> [D. Hunter, Derek I. Hunter, Derek Hunter](ppl_D.%20Hunter,Derek%20I.%20Hunter,Derek%20Hunter.md) <sup>`11` hits</sup> <sup>[1360, 1362, 1363, 1365, 1366, 1367, 1368, 1369]</sup>
+1. <sup>ppl</sup> [Ryan Cohen, RC Ventures, R. Cohen](ppl_Ryan%20Cohen,RC%20Ventures,R.%20Cohen.md) <sup>`2` hits</sup> 🥵 <sup>[1367]</sup>
 
 New search terms this scan:
 
@@ -44,7 +42,6 @@ none
 
 Glossary:
 
-none
 1. <sup>com</sup> [A&G](com_A&G.md) <sup>`685` hits in `56` dockets</sup>
 1. <sup>com</sup> [Alix](com_Alix.md) <sup>`318` hits in `14` dockets</sup>
 1. <sup>com</sup> [Catterton](com_Catterton.md) <sup>`0` hits</sup>
