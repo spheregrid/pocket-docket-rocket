@@ -1,6 +1,6 @@
 # BBBY docket searches
 
-Scanned to docket `1398` on `18 July 2023` 16:43 ET | 21:43 GMT.
+Scanned to docket `1398` on `18 July 2023` 17:02 ET | 22:02 GMT.
 
 Updated this scan:
 
@@ -22,19 +22,23 @@ Updated this scan:
 1. <sup>ppl</sup> [H. Etlin, Holly Etlin, Ms. Etlin](ppl_H.%20Etlin,Holly%20Etlin,Ms.%20Etlin.md) <sup>`5` hits</sup> <sup>[1380, 1383, 1395, 1397]</sup>
 1. <sup>ppl</sup> [R. Fiedler, Mr. Fiedler](ppl_R.%20Fiedler,Mr.%20Fiedler.md) <sup>`33` hits</sup> <sup>[1397]</sup>
 
-Updated from previous scan:
+Updated from last scan:
 
 1. <sup>com</sup> [A&G](com_A&G.md) <sup>`1` hit</sup> <sup>[1367]</sup>
 1. <sup>com</sup> [Citadel](com_Citadel.md) <sup>`4` hits</sup> <sup>[1366]</sup>
 1. <sup>com</sup> [Gibbons](com_Gibbons.md) <sup>`1` hit</sup> <sup>[1366]</sup>
-1. <sup>com</sup> [JLL](com_JLL.md) <sup>`5` hits</sup> <sup>[1366]</sup>
+1. <sup>com</sup> [JLL](com_JLL.md) <sup>`6` hits</sup> <sup>[1357, 1366]</sup>
 1. <sup>com</sup> [Lazard](com_Lazard.md) <sup>`2` hits</sup> <sup>[1367]</sup>
 1. <sup>com</sup> [Proskauer Rose](com_Proskauer%20Rose.md) <sup>`9` hits</sup> <sup>[1364, 1365, 1366, 1367]</sup>
 1. <sup>com</sup> [Sixth Street](com_Sixth%20Street.md) <sup>`12` hits</sup> <sup>[1366, 1367, 1369]</sup>
 1. <sup>leg</sup> [Equity holder, Shareholder](leg_Equity%20holder,Shareholder.md) <sup>`1` hit</sup> <sup>[1359]</sup>
 1. <sup>leg</sup> [Warrants](leg_Warrants.md) <sup>`5` hits</sup> <sup>[1362]</sup>
-1. <sup>ppl</sup> [D. Hunter, Derek I. Hunter, Derek Hunter](ppl_D.%20Hunter,Derek%20I.%20Hunter,Derek%20Hunter.md) <sup>`11` hits</sup> <sup>[1360, 1362, 1363, 1365, 1366, 1367, 1368, 1369]</sup>
+1. <sup>ppl</sup> [D. Hunter, Derek I. Hunter, Derek Hunter](ppl_D.%20Hunter,Derek%20I.%20Hunter,Derek%20Hunter.md) <sup>`12` hits</sup> <sup>[1357, 1360, 1362, 1363, 1365, 1366, 1367, 1368, 1369]</sup>
 1. <sup>ppl</sup> [Ryan Cohen, RC Ventures, R. Cohen](ppl_Ryan%20Cohen,RC%20Ventures,R.%20Cohen.md) <sup>`2` hits</sup> 🥵 <sup>[1367]</sup>
+
+Updated from last last scan:
+
+none
 
 New search terms this scan:
 
@@ -89,6 +93,7 @@ Glossary:
 1. <sup>leg</sup> [Persons of Interest, Person of Interest](leg_Persons%20of%20Interest,Person%20of%20Interest.md) <sup>`0` hits</sup>
 1. <sup>leg</sup> [Potential Offer, Final Offer](leg_Potential%20Offer,Final%20Offer.md) <sup>`1` hits in `1` dockets</sup>
 1. <sup>leg</sup> [Public Announcement](leg_Public%20Announcement.md) <sup>`20` hits in `15` dockets</sup>
+1. <sup>leg</sup> [Restructuring Plan](leg_Restructuring%20Plan.md) <sup>`1` hits in `1` dockets</sup>
 1. <sup>leg</sup> [Reverse Merger, Triangular Merger, Merger Transaction](leg_Reverse%20Merger,Triangular%20Merger,Merger%20Transaction.md) <sup>`0` hits</sup>
 1. <sup>leg</sup> [Share Count](leg_Share%20Count.md) <sup>`5` hits in `3` dockets</sup>
 1. <sup>leg</sup> [Shared IP](leg_Shared%20IP.md) <sup>`66` hits in `11` dockets</sup>
